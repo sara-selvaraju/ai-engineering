@@ -225,8 +225,8 @@ ai-engineering/
 │── README.md                        # Main repo documentation
 │── LICENSE                          # License information
 │── AI-Engineering-Essentials-Part1/
-│   ├── lecture1/                    # all lecture materials
-│   ├── lecture2/                    # all lecture materials
+│   ├── section1/                    # all lecture materials
+│   ├── section2/                    # all lecture materials
 │   ├── community-contributions/     # contributions from the community
 │   ├── README.md                    # Course README instructions
 │── AI-Engineering-Essentials-Part2/
