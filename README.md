@@ -21,7 +21,7 @@ I would particularly welcome any suggestions you might have regarding the course
 - **Email:** shaheer@superdatascience.com
 
 ### **For Course Feedback**
-- 📧 Reach out via GitHub [Issues](https://github.com/SuperDataScience-Community-Courses/ai-engineering/issues) or Discussions.
+- 📧 Reach out via GitHub [Issues](https://github.com/SuperDataScience-Community-Courses/ai-engineering/issues) or [Discussions](https://github.com/SuperDataScience-Community-Courses/ai-engineering/discussions).
 - **SuperDataScience Platform:** [AI Engineering Q&A](https://community.superdatascience.com/c/ml-ai-questions/)
 - **Email:** shaheer@superdatascience.com
 
