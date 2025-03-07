@@ -15,14 +15,9 @@ If you have any questions or need assistance, feel free to reach out! You can co
 
 I would particularly welcome any suggestions you might have regarding the courses and if there are any improvements I can make or additional material you would like to see. Feel free to send me any queries you might have.
 
-### **For Issues Related to the Course**
+### **For Issues & Feedback Related to the Course**
 - 📧 Reach out via GitHub [Issues](https://github.com/SuperDataScience-Community-Courses/ai-engineering/issues) or [Discussions](https://github.com/SuperDataScience-Community-Courses/ai-engineering/discussions).
 - Leave a post in the SuperDataScience Community platform. [AI Engineering Q&A](https://community.superdatascience.com/c/ml-ai-questions/)
-- **Email:** shaheer@superdatascience.com
-
-### **For Course Feedback**
-- 📧 Reach out via GitHub [Issues](https://github.com/SuperDataScience-Community-Courses/ai-engineering/issues) or [Discussions](https://github.com/SuperDataScience-Community-Courses/ai-engineering/discussions).
-- **SuperDataScience Platform:** [AI Engineering Q&A](https://community.superdatascience.com/c/ml-ai-questions/)
 - **Email:** shaheer@superdatascience.com
 
 ### **For Other General Questions**
