@@ -6,9 +6,8 @@ We welcome bug fixes, improvements, and new exercises!
 ## **Steps to Contribute:**
 
 1. **Fork** this repository.  
-2. Create a new **branch** for your changes.
-3. Commit your code and **push** the changes.
-4. Open a **pull request** and describe your updates.
+2. Commit your code and **push** the changes.
+3. Open a **pull request** and describe your updates.
 
 ## **Uploading Example Exercises:**
 
