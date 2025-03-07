@@ -1,0 +1,12 @@
+# Core Python libraries for AI Engineering Essentials - Part 1
+ipykernel
+
+# Large Language Model (LLM) related packages
+openai
+anthropic
+huggingface_hub
+transformers
+torch
+
+# Environment and API key management
+python-dotenv
