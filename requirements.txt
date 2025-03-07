@@ -4,9 +4,9 @@ ipykernel
 # Large Language Model (LLM) related packages
 openai
 anthropic
-huggingface_hub
-transformers
-torch
+
+# User interface frameworks
+streamlit
 
 # Environment and API key management
 python-dotenv
