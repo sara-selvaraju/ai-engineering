@@ -13,31 +13,30 @@ We welcome bug fixes, improvements, and new exercises!
 
 To upload your example exercises, follow these steps:
 
-1. Navigate to the relevant section folder (e.g., `AI-Engineering-Essentials-Part1/Section3/`).
-2. Inside the section folder, locate the `submissions-community` folder.
+1. Navigate to the relevant section folder (e.g., `AI-Engineering-Essentials/Part1/Section3/`).
+2. Inside the section folder, locate the `community-contributions` folder.
 3. Create a new folder with your first and last name (e.g., `shaheer-airaj`).
 4. Place all your code files inside this folder.
 
 The folder structure should look like this:
 
 ```
-AI-Engineering-Essentials-Part1/
-├── lecture1/
-│   ├── submissions-community/
-│   │   ├── shaheer-airaj/
-│   │   │   ├── submission.py
-│   │   │   ├── additional_file.ipynb
-│   │   │   └── ...
-│   ├── other_files/
-│   └── ...
-├── lecture2/
-│   ├── submissions-community/
-│   │   ├── your-name/
-│   │   │   ├── submission.py
-│   │   │   ├── additional_file.ipynb
-│   │   │   └── ...
-│   ├── other_files/
-│   └── ...
+AI-Engineering-Essentials/
+├── Part1/
+│   ├── Section3/
+│   │   ├── community-contributions/
+│   │   │   ├── shaheer-airaj/
+│   │   │   │   ├── submission.py
+│   │   │   │   ├── additional_file.ipynb
+│   │   │   │   └── ...
+│   │   ├── other_files/
+│   ├── Section4/
+│   │   ├── community-contributions/
+│   │   │   ├── shaheer-airaj/
+│   │   │   │   ├── submission.py
+│   │   │   │   ├── additional_file.ipynb
+│   │   │   │   └── ...
+│   │   ├── other_files/
 ```
 
 ## **Additional Guidelines:**

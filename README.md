@@ -34,8 +34,8 @@ Each course is organized into its own directory.
 📌 **Current Courses Available:**
 - 🟢 AI Engineering Essentials – Part 1
 - 🔜 AI Engineering Essentials – Part 2 *(Coming Soon)*
-- 🔜 AI Engineering Foundations – Part 1 *(Coming Soon)*  
-- 🔜 AI Engineering Foundations – Part 2 *(Coming Soon)*
+- 🔜 AI Engineering Intermediate – Part 1 *(Coming Soon)*  
+- 🔜 AI Engineering Intermediate – Part 2 *(Coming Soon)*
 - 🔜 AI Engineering Advanced – Part 1 *(Coming Soon)*
 - 🔜 AI Engineering Advanced – Part 2 *(Coming Soon)*
 
@@ -217,19 +217,23 @@ Many courses require API keys for platforms like OpenAI, Anthropic, and Hugging 
 ## **🚀 Project Structure**
 ```bash
 ai-engineering/
-│── README.md                        # Main repo documentation
-│── LICENSE                          # License information
-│── AI-Engineering-Essentials-Part1/
-│   ├── section1/                    # all lecture materials
-│   ├── section2/                    # all lecture materials
-│   ├── community-contributions/     # contributions from the community
-│   ├── README.md                    # Course README instructions
-│── AI-Engineering-Essentials-Part2/
-│── AI-Engineering-Mastery-Part1/
-│── .gitignore                       # Ignore unnecessary files
-│── .env                             # Contains environment variables like API Keys
-├── requirements.txt                 # Required Python packages
-├── environment.yaml                 # isntructions for settting up anaconda environment
+│── README.md                         # Main repo documentation
+│── LICENSE                           # License information
+│── AI-Engineering-Essentials/
+│   └── Part1/
+│       ├── section1/                 # all lecture materials
+│       ├── section2/                 # all lecture materials
+│       ├── community-contributions/  # contributions from the community
+│   └── Part2/
+│       ├── section1/                 # all lecture materials
+│       ├── section2/                 # all lecture materials
+│       ├── community-contributions/  # contributions from the community
+│   ├── README.md/
+│── AI-Engineering-Mastery/
+│── .gitignore                        # Ignore unnecessary files
+│── .env                              # Contains environment variables like API Keys
+├── requirements.txt                  # Required Python packages
+├── environment.yaml                  # instructions for setting up an Anaconda environment
 ```
 
 ## **📜 License**
