@@ -10,3 +10,6 @@ streamlit
 
 # Environment and API key management
 python-dotenv
+
+# Agno and Tavily
+tavily-python
